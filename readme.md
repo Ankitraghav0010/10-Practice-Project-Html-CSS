@@ -1,5 +1,5 @@
 # HTML CSS 10 PRACTICE PROJECT
-
+# here you will learn about HTML CSS project.
 ### Project that we are going to build in this complete practice course
 
 - Project 1 - Tribute Website
@@ -16,5 +16,3 @@
 #### All Image Assets and Icons will Provided in Video Description
 
 Visit Website - [Do some coding](https://www.dosomecoding.com)
-
-Visit Channel - [Do some coding](https://www.youtube.com/c/dosomecoding)
