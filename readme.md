@@ -1,5 +1,5 @@
 # HTML CSS 10 PRACTICE PROJECT
-# here you will learn about HTML CSS project.
+# here you will see  HTML CSS project.
 ### Project that we are going to build in this complete practice course
 
 - Project 1 - Tribute Website
